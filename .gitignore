@@ -1,0 +1,4 @@
+/src/DedupTool/bin
+/src/DedupTool/obj
+/test/DedupTool.Tests/bin
+/test/DedupTool.Tests/obj
